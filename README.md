@@ -1,2 +1,7 @@
 # MinecraftDevRepo
-Minecraft相关示例与MOD开发
+
+Minecraft Mod examples
+
+just for now  
+
+that's all
